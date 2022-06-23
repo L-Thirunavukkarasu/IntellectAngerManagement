@@ -33,7 +33,7 @@
      
    # Output 
 
-   ![Alt Text](https://i.ibb.co/GRG696y/intellect.gif)
+   Link : https://i.ibb.co/GRG696y/intellect.gif
     
     
     
